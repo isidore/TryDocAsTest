@@ -1,0 +1,23 @@
+ifndef::ROOT_PATH[:ROOT_PATH: ../..]
+
+[#org_demo_liftsystemtest_singleliftstaysongroundfloor]
+= Single Lift - Stays on Ground Floor
+
+One lift on floor 0 
+[%autowidth]
+|===
+|Floor | Call | Lift A
+
+|1 |    |     
+|0 |    |  [A]
+|===
+
+\... one tick of time passes ... 
+[%autowidth]
+|===
+|Floor | Call | Lift A
+
+|1 |    |     
+|0 |    |  [A]
+|===
+

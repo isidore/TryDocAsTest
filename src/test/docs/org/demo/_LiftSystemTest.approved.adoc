@@ -1,0 +1,6 @@
+ifndef::ROOT_PATH[:ROOT_PATH: ../..]
+
+[#org_demo_liftsystemtest]
+= Lift System
+
+include::_LiftSystemTest.singleLiftStaysOnGroundFloor.approved.adoc[leveloffset=+1]
